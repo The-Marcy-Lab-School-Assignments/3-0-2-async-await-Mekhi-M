@@ -1,5 +1,3 @@
-import {
-  fetchHandler
-} from './from-scratch';
+import { fetchHandler } from "./from-scratch";
 
-const appDiv = document.querySelector('#app');
+const appDiv = document.querySelector("#app");
